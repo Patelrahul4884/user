@@ -1,0 +1,10 @@
+Django
+djangorestframework
+djangorestframework-jwt
+mysqlclient
+django-mysql
+django-cors-headers
+pika
+requests
+django-heroku
+gunicorn
